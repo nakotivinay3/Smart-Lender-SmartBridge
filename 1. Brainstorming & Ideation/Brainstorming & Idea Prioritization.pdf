@@ -1,19 +1,20 @@
 Document 1: Brainstorming & Idea Prioritization
-
+Title
+Brainstorming & Idea Prioritization
+Project Name
 
 Smart Lender – Loan Eligibility Prediction System
 
 Objective
 
 The objective of the brainstorming session was to identify a real-world problem that could be effectively solved using Artificial Intelligence and Machine Learning. Multiple ideas from different domains were discussed and evaluated based on feasibility, real-world impact, availability of datasets, implementation complexity, and deployment possibilities.
-
-Brainstormed Ideas
-Idea	Description	Priority
-Student Performance Prediction	Predict academic performance using student records	Medium
-Disease Prediction System	Predict diseases from symptoms using ML	Medium
-House Price Prediction	Predict house prices based on location and market trends	Medium
-Employee Attrition Prediction	Predict employee resignation using HR data	Medium
-Smart Lender – Loan Eligibility Prediction System	Predict loan approval using applicant information and credit history	High (Selected)
+| Idea                                                  | Description                                                          | Priority            |
+| ----------------------------------------------------- | -------------------------------------------------------------------- | ------------------- |
+| Student Performance Prediction                        | Predict academic performance using student records                   | Medium              |
+| Disease Prediction System                             | Predict diseases from symptoms using ML                              | Medium              |
+| House Price Prediction                                | Predict house prices based on location and market trends             | Medium              |
+| Employee Attrition Prediction                         | Predict employee resignation using HR data                           | Medium              |
+| **Smart Lender – Loan Eligibility Prediction System** | Predict loan approval using applicant information and credit history | **High (Selected)** |
 Evaluation Criteria
 
 The shortlisted ideas were evaluated using the following criteria:
